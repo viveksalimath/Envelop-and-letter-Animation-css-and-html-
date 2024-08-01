@@ -1,6 +1,6 @@
 # My Project
 
-Welcome to my project! This repository contains [brief description of your project]. 
+Welcome to my project! This repository...
 
 ## 📚 About
 
